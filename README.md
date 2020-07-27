@@ -3,8 +3,8 @@
 ## How to setup
 - git clone https://github.com/SouravInsights/hashmeet-api-mongodb.git
 - cd into hashmeet-api-mongod
-- yarn install
-- yarn dev
+- `yarn install`
+- `yarn dev`
 
 ## Project structure
 
