@@ -1,8 +1,8 @@
 # HashMeet Api ( MongoDB )
 
 ## How to setup
-- git clone https://github.com/SouravInsights/hashmeet-api-mongodb.git
-- cd into hashmeet-api-mongod
+- `git clone` https://github.com/SouravInsights/hashmeet-api-mongodb.git
+- cd into `hashmeet-api-mongod`
 - `yarn install`
 - `yarn dev`
 
