@@ -1,7 +1,12 @@
-# JS Makers REST Api 
+# HashMeet Api ( MongoDB )
 
-## Project Structure
+## How to setup
+- git clone https://github.com/SouravInsights/hashmeet-api-mongodb.git** 
+- cd into hashmeet-api-mongod
+- yarn install
+- yarn dev
 
+## Project structure
 
 ```
 src
